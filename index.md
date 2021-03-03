@@ -1,0 +1,30 @@
+!<!DOCTYPE html>
+<html>
+    <head>
+        <title>Robotics</title>
+    </head>
+    <body>
+        <div>
+            <h1>First Section</h1>
+        </div>
+            <div>
+                <p>First Section Text</p>
+            </div>
+
+        <div>
+            <h1>Second Section</h1>
+        </div>
+            <div>
+                <p>Second Section Text</p>
+            </div>
+        <div>
+            <h1>
+                Third Section</Section>
+            </h1>
+        </div>
+            <div>
+                <p>Third Section Text</p>
+            </div>
+        <footer>Footer Sample</footer>
+    </body>
+</html>
